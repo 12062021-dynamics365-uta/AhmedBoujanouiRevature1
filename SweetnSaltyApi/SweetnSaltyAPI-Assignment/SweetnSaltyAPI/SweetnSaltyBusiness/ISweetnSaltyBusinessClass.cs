@@ -13,7 +13,7 @@ namespace SweetnSaltyBusiness
         Task<Flavor> GetFlavor(string flavor);
 
         Task<Person> PostPerson(string fname, string lname, string flavorname);
-        Task<Person> GetPerson(string fname, string lname);
+        Task<Person> GetPerson(int PersonId, string fname, string lname);
 
         Task<Person> GetPersonAndFlavors(int id);
         Task<List<Flavor>> GetAllFlavors();
