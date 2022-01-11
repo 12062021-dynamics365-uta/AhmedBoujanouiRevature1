@@ -44,6 +44,37 @@ namespace SweetnSaltyDbAccess
             }
         }
 
+        public async Task<SqlDataReader> PostPerson(string fname, string lname)
+        {
+            string sqlQuery = $"INSERT INTO Person VALUES (@fname, @lname) ";
 
+            using (SqlCommand cmd = new SqlCommand(sqlQuery, this._con))
+            {
+                cmd.Parameters.AddWithValue("@fname", fname);
+                cmd.Parameters.AddWithValue("@lname", lname);
+
+                try
+                {
+                    await cmd.ExecuteNonQueryAsync();
+                    string retrievePerson = "SELECT TOP 1 * FROM Person ORDER BY PersonId DESC;";
+                    using (SqlCommand cmd1 = new SqlCommand(retrievePerson, this._con))
+                    {
+
+                        SqlDataReader dr1 = await cmd1.ExecuteReaderAsync();
+                        return dr1;
+                    }
+                }
+                catch (DbException ex)// TODO do something with this exception
+                {
+                    Console.WriteLine($"There was an exception in SweetnSaltyBusinessClass.PostPerson{ex}");
+                    return null;
+                }
+            }
+        }
+
+        public Task<SqlDataReader> PostPerson(string fname, string lname, string flavorname)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

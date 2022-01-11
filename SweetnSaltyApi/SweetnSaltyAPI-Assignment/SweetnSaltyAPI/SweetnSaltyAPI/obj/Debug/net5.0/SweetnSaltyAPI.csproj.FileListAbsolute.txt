@@ -38,3 +38,4 @@ C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnS
 C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyAPI\obj\Debug\net5.0\ref\SweetnSaltyAPI.dll
 C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyAPI\obj\Debug\net5.0\SweetnSaltyAPI.pdb
 C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyAPI\obj\Debug\net5.0\SweetnSaltyAPI.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyAPI\obj\Debug\net5.0\SweetnSaltyAPI.MvcApplicationPartsAssemblyInfo.cs

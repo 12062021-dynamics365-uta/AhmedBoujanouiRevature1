@@ -11,6 +11,7 @@ namespace SweetnSaltyBusiness
     {
         private readonly ISweetnSaltyDbAccessClass _dbAccess;
         private readonly IMapper _mapper;
+        private object person;
 
         public SweetnSaltyBusinessClass(ISweetnSaltyDbAccessClass Dbaccess, IMapper mapper)//you need a reference to the DbAccess Layer 
         {
@@ -40,18 +41,24 @@ namespace SweetnSaltyBusiness
 
         public async Task<Flavor> PostFlavor(string flavor)
         {
-            SqlDataReader dr = await this._dbAccess.PostFlavor(flavor);
-            if (dr.Read())
+            SqlDataReader dr1 = await this._dbAccess.PostFlavor(flavor);
+            if (dr1.Read())
             {
-                Flavor p = this._mapper.EntityToFlavor(dr);
+                Flavor p = this._mapper.EntityToFlavor(dr1);
                 return p;
             }
             else return null;
         }
 
-        public Task<Person> PostPerson(string fname, string lname)
+        public async Task<Person> PostPerson(string fname, string lname, string FlavorName)
         {
-            throw new NotImplementedException();
+            SqlDataReader dr1 = await this._dbAccess.PostPerson(fname, lname, FlavorName);
+            if (dr1.Read())
+            {
+                Person p1 = this._mapper.EntityToPerson(dr1);
+                return p1;
+            }
+            else return null;
         }
     }
 }
