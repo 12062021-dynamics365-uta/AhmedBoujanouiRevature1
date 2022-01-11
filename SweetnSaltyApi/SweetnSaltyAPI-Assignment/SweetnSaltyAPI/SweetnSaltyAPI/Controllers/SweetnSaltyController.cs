@@ -36,10 +36,14 @@ namespace SweetnSaltyAPI.Controllers
 
         [HttpPost]
         [Route("postaperson/{fname}/{lname}")]
-        public async Task<ActionResult<Person>> PostPerson(string fname, string lname)
+        public async Task<ActionResult<Person>> PostPerson(string fname, string lname, string flavorname)
         {
-            throw new NotImplementedException();
-
+            Person p = await this._businessClass.PostPerson(fname, lname, flavorname);
+            if (p != null)
+            {
+                return Created($"http://5001/sweetnsalty/postflavor/{p.PersonId}", p);
+            }
+            else return BadRequest();
         }
 
         [HttpGet]
