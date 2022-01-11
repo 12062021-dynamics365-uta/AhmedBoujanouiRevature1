@@ -20,7 +20,12 @@ namespace SweetnSaltyBusiness
         }
         public Person EntityToPerson(SqlDataReader dr)
         {
-            throw new NotImplementedException();
+            return new Person()
+            {
+                PersonId = dr.GetInt32(0),
+                Fname = dr[1].ToString(),
+                Lname = dr[2].ToString(),
+            };
 
         }
     }
