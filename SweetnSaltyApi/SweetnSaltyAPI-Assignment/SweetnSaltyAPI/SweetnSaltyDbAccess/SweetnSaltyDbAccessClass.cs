@@ -7,7 +7,7 @@ namespace SweetnSaltyDbAccess
 {
     public class SweetnSaltyDbAccessClass : ISweetnSaltyDbAccessClass
     {
-        private readonly string str = ""; /*connection string here.*/
+        private readonly string str = ("data source = DESKTOP-KOB9I12\\SQLEXPRESS01; initial catalog = SweetnSalty; integrated security = true"); /*connection string here.*/
         private readonly SqlConnection _con;
 
         //constructor

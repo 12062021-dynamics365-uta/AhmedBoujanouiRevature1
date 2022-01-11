@@ -36,7 +36,7 @@ namespace SweetnSaltyAPI.Controllers
 
         [HttpPost]
         [Route("postaperson/{fname}/{lname}")]
-        public async Task<Person> PostPerson(string fname, string lname)
+        public async Task<ActionResult<Person>> PostPerson(string fname, string lname)
         {
             throw new NotImplementedException();
 
@@ -44,7 +44,7 @@ namespace SweetnSaltyAPI.Controllers
 
         [HttpGet]
         [Route("getaperson/{fname}/{lname}")]
-        public async Task<Person> PostFlavor(string fname, string lname)
+        public async Task<ActionResult<Person>> GetPerson(string fname, string lname)
         {
             throw new NotImplementedException();
 
@@ -52,7 +52,7 @@ namespace SweetnSaltyAPI.Controllers
 
         [HttpGet]
         [Route("getapersonandflavors/{id}")]
-        public async Task<Person> GetPersonAndFlavors(int id)
+        public async Task<ActionResult<Person>> GetPersonAndFlavors(int id)
         {
             throw new NotImplementedException();
 
@@ -60,7 +60,7 @@ namespace SweetnSaltyAPI.Controllers
 
         [HttpGet]
         [Route("getlistofflavors")]
-        public async Task<List<Flavor>> GetAllFlavors()
+        public async Task<ActionResult<List<Flavor>>> GetAllFlavors()
         {
             throw new NotImplementedException();
 

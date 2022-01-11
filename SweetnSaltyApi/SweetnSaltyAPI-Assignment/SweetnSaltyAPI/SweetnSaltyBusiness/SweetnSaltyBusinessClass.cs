@@ -1,6 +1,7 @@
 ﻿using SweetnSaltyDbAccess;
 using SweetnSaltyModels;
 using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
 
@@ -17,6 +18,26 @@ namespace SweetnSaltyBusiness
             this._dbAccess = Dbaccess;
         }
 
+        public Task<List<Flavor>> GetAllFlavors()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Flavor> GetFlavor(string flavor)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Person> GetPerson(string fname, string lname)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Person> GetPersonAndFlavors(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<Flavor> PostFlavor(string flavor)
         {
             SqlDataReader dr = await this._dbAccess.PostFlavor(flavor);
@@ -26,6 +47,11 @@ namespace SweetnSaltyBusiness
                 return p;
             }
             else return null;
+        }
+
+        public Task<Person> PostPerson(string fname, string lname)
+        {
+            throw new NotImplementedException();
         }
     }
 }
