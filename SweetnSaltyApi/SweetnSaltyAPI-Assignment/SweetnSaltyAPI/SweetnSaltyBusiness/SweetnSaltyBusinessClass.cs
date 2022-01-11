@@ -50,9 +50,9 @@ namespace SweetnSaltyBusiness
             else return null;
         }
 
-        public async Task<Person> PostPerson(string fname, string lname, string FlavorName)
+        public async Task<Person> PostPerson(string fname, string lname, string flavorname)
         {
-            SqlDataReader dr1 = await this._dbAccess.PostPerson(fname, lname, FlavorName);
+            SqlDataReader dr1 = await this._dbAccess.PostPerson(fname, lname, flavorname);
             if (dr1.Read())
             {
                 Person p1 = this._mapper.EntityToPerson(dr1);

@@ -44,14 +44,16 @@ namespace SweetnSaltyDbAccess
             }
         }
 
-        public async Task<SqlDataReader> PostPerson(string fname, string lname)
+        public async Task<SqlDataReader> PostPerson(string fname, string lname, string flavorname)
         {
-            string sqlQuery = $"INSERT INTO Person VALUES (@fname, @lname) ";
+            string sqlQuery = $"INSERT INTO Person VALUES (@fname, @lname, @flavorname) ";
 
             using (SqlCommand cmd = new SqlCommand(sqlQuery, this._con))
             {
                 cmd.Parameters.AddWithValue("@fname", fname);
                 cmd.Parameters.AddWithValue("@lname", lname);
+                cmd.Parameters.AddWithValue("@flavorname", flavorname);
+
 
                 try
                 {
@@ -72,9 +74,9 @@ namespace SweetnSaltyDbAccess
             }
         }
 
-        public Task<SqlDataReader> PostPerson(string fname, string lname, string flavorname)
-        {
-            throw new NotImplementedException();
-        }
+        //public Task<SqlDataReader> PostPerson(string fname, string lname, string flavorname)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }
