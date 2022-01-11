@@ -1,0 +1,12 @@
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\SweetnSaltyDbAccess.deps.json
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\SweetnSaltyDbAccess.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\ref\SweetnSaltyDbAccess.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\bin\Debug\net5.0\SweetnSaltyDbAccess.pdb
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\ref\SweetnSaltyDbAccess.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyDbAccess\obj\Debug\net5.0\SweetnSaltyDbAccess.pdb

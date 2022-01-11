@@ -46,6 +46,16 @@
    let newTodo1 = inputElem.value;
    let myli1 = document.createElement('li');
    myli1.innerText = `${newTodo1}`;
+   if(newTodo1 ==="")
+   {
+       alert("Invalid Entry");
+       return false;
+   }else if(newTodo1.length > 10)
+   {
+       alert("too many characters");
+       return false;
+   }
+
    GameProgression1.innerHTML = `<li> Starting number you have entered is: ${newTodo1} </li>`;
    inputElem.value = '';
    inputElem.focus();
