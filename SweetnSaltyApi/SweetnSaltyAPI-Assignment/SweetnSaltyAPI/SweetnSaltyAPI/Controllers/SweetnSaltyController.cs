@@ -48,9 +48,14 @@ namespace SweetnSaltyAPI.Controllers
 
         [HttpGet]
         [Route("getaperson/{fname}/{lname}")]
-        public async Task<ActionResult<Person>> GetPerson(string fname, string lname)
+        public async Task<ActionResult<Person>> GetPerson(int PersonId, string fname, string lname)
         {
-            throw new NotImplementedException();
+            Person p3 = await this._businessClass.GetPerson(PersonId, fname, lname);
+            if (p3 != null)
+            {
+                return Created($"http://5001/sweetnsalty/getperson/{p3.PersonId}/{p3.Fname}/{p3.Lname}", p3);
+            }
+            else return BadRequest();
 
         }
 

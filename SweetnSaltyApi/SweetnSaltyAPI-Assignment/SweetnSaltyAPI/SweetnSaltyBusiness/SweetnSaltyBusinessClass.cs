@@ -29,10 +29,10 @@ namespace SweetnSaltyBusiness
             throw new NotImplementedException();
         }
 
-        public Task<Person> GetPerson(string fname, string lname)
-        {
-            throw new NotImplementedException();
-        }
+        //public Task<Person> GetPerson(string fname, string lname)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         public Task<Person> GetPersonAndFlavors(int id)
         {
@@ -52,11 +52,22 @@ namespace SweetnSaltyBusiness
 
         public async Task<Person> PostPerson(string fname, string lname, string flavorname)
         {
-            SqlDataReader dr1 = await this._dbAccess.PostPerson(fname, lname, flavorname);
-            if (dr1.Read())
+            SqlDataReader dr2 = await this._dbAccess.PostPerson(fname, lname, flavorname);
+            if (dr2.Read())
             {
-                Person p1 = this._mapper.EntityToPerson(dr1);
-                return p1;
+                Person p2 = this._mapper.EntityToPerson(dr2);
+                return p2;
+            }
+            else return null;
+        }
+
+        public async Task<Person> GetPerson(int PersonId, string fname, string lname)
+        {
+            SqlDataReader dr3 = await this._dbAccess.GetPerson( PersonId, fname, lname);
+            if (dr3.Read())
+            {
+                Person p3 = this._mapper.EntityToPerson(dr3);
+                return p3;
             }
             else return null;
         }
