@@ -1,0 +1,17 @@
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyBusiness.deps.json
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyBusiness.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\ref\SweetnSaltyBusiness.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyBusiness.pdb
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyDbAccess.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyDbAccess.pdb
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\bin\Debug\net5.0\SweetnSaltyModels.pdb
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.csproj.CopyComplete
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\ref\SweetnSaltyBusiness.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyBusiness\obj\Debug\net5.0\SweetnSaltyBusiness.pdb

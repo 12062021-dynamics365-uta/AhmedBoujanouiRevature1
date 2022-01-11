@@ -1,0 +1,12 @@
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.deps.json
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\ref\SweetnSaltyModels.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\bin\Debug\net5.0\SweetnSaltyModels.pdb
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\ref\SweetnSaltyModels.dll
+C:\Users\ahmed\OneDrive\Documents\AhmedBoujanouiRevature1\SweetnSaltyApi\SweetnSaltyAPI-Assignment\SweetnSaltyAPI\SweetnSaltyModels\obj\Debug\net5.0\SweetnSaltyModels.pdb
